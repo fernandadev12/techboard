@@ -1,0 +1,34 @@
+.cardeventodiv {
+  background-color: #212121;
+  display: flex;
+  flex-direction: column;
+  width: 282px;
+}
+
+.cardeventodiv p,
+.cardeventodiv h4 {
+  margin: 0;
+}
+.cardeventodiv .corpocard {
+  padding: 24px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.cardeventodiv .tag {
+  background-color: #4a4349;
+  border-radius: 4xp;
+  padding: 8px;
+  color: #fff;
+  font-family: "Oritron", sans-serif;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 120%;
+  letter-spacing: 10%;
+  text-transform: uppercase;
+}
+
+.tituloevento {
+}
