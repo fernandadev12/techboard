@@ -30,4 +30,4 @@ git clone https://github.com/seuusuario/techboard.git
 
 ## 📸 Protótipo do Layout Final
 
-![Protótipo do projeto](https://github.com/fernandadev12/techboard/raw/main/src/assets/layoutprojetotechboard.jpeg)
+![Protótipo do projeto](https://raw.githubusercontent.com/fernandadev12/techboard/main/src/assets/layoutprojetotechboard.jpeg)
