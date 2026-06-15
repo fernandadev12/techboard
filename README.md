@@ -1,16 +1,33 @@
-# React + Vite
+# 📌 TechBoard - Cadastro de Eventos de TI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma **landing page** desenvolvida em **React 19 + Vite**, com foco em **cadastro de eventos de tecnologia da informação (TI)**.  
+O objetivo é permitir que usuários registrem eventos através de um formulário e visualizem a listagem dos cadastros realizados logo abaixo.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias utilizadas
+- [React 19](https://react.dev/) com JSX
+- [Vite](https://vitejs.dev/) para build e desenvolvimento rápido
+- CSS para estilização
+- ESLint configurado para boas práticas
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Estrutura do projeto
+- **Banner**: seção inicial com destaque visual
+- **Formulário de Evento**: permite cadastrar novos eventos
+- **Listagem de Eventos**: exibe os eventos cadastrados logo abaixo do formulário
+- **Componentes reutilizáveis**: `Banner`, `Tema`, `CardEvento`, `FormularioDeEvento`
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Como executar o projeto
+
+Clone o repositório:
+```bash
+git clone https://github.com/seuusuario/techboard.git
+
+
+## layout projeto final
+
+src/assets/layoutprojetotechboard.jpeg
