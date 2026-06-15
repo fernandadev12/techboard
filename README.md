@@ -28,6 +28,8 @@ Clone o repositório:
 git clone https://github.com/seuusuario/techboard.git
 
 
-## layout projeto final
+## 📸 Protótipo do Layout Final
 
-src/assets/layoutprojetotechboard.jpeg
+![Protótipo do projeto](https://github.com/fernandadev12/techboard/blob/main/src/assets/layoutprojetotechboard.jpeg?raw=true)
+
+
